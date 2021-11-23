@@ -1,0 +1,22 @@
+Excellent：轻松听懂全部内容；说话流畅自然、清晰悦耳，与真人无异
+     Good：能听懂全部内容；说话比较流畅、有细微瑕疵，发音标准；无明显噪声
+     Fair：基本都能听懂；说话不太流畅、语调不太自然，明显的机器味；略有噪声但可接受
+     Poor：能听懂部分内容；语音不连续，语调像方言；噪声明显像老式无线电
+      Bad：内容很难听懂；语音严重失真；噪声严重影响对内容的理解
+
+
+宝马配挂跛骡鞍，貂蝉怨枕董翁榻。                                              https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_000003.wav
+黑熊闯进王明辉家后院觅食。                                                    https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_000030.wav
+好的，将在明天上午8点10分叫醒你。                                             https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_alarm_01.wav
+24小时随时待命，小海一直会等你来。                                            https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_chat_01.wav
+一入宫门深似海，小海更向往普通人相濡以沫的爱情。                              https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_chat_02.wav
+你好，我是小海，很高兴认识你。                                                https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_chat_inset_01.wav
+你好，我的名字是小海，我可以帮你查天气、讲笑话，陪你聊天，怎么样，够炫酷吧？  https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_chat_inset_02.wav
+今天是1月14日，周四，农历庚子年腊月初二。你还可以试着说播放新闻哦             https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_date_time_01.wav
+当前纽约的时间是1月13日晚上11点37分                                           https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_date_time_02.wav
+北京城市副中心规划获批复：不搞大规模房地产开发。                              https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_news_01.wav
+张家界大峡谷景区发生坠石事件，一名游客被砸身亡。                              https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_news_02.wav
+地球上每年要发生约500万次地震，平均不到10秒钟便有一次。                       https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_qa_01.wav
+春天开的花有：百合，蒲公英，金银花，风信子，茉莉花等                          https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_qa_02.wav
+明天晴转多云，零下1度到9度，微风，空气质量优。最近易患肺炎，要注意休息哦。    https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_weather_01.wav
+最近三天4度到13度，有点冷，以多云天为主，最近三天整体空气质量良好。           https://wiki.lianjia.com/download/attachments/976313777/MOS_20211122_weather_02.wav
